@@ -29,16 +29,15 @@ Experiment info:
 
 Channel Assignment
 
-Choose the Channel for Thresholding. This is the one to create the Neuron Mask
-Channel to Measure. This is the channel for the signal to measure. 
-Primary Thresholding. Method for Neuron Mask Thresholding. 
-Secondary Thresholding. Method for signal-to-measure thresholding. 
-	Thresholding Methods
+	Choose the Channel for Thresholding. This is the one to create the Neuron Mask
+	Channel to Measure. This is the channel for the signal to measure. 
+	Primary Thresholding. Method for Neuron Mask Thresholding. 
+	Secondary Thresholding. Method for signal-to-measure thresholding. 
+		Thresholding Methods
 		 Manual
 		 Set Value
 		 Auto
 		 From CSV. (If each image requires a different threshold value, a CSV with the names of the files and individual threshold values can be used) 
-
 	Name of Channels. Indicate the name of your markers. 
 
 
