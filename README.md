@@ -1,6 +1,8 @@
 ---README---
+This macro was written for ImageJ Fiji
 Macro Name:
 Channel_quantification_macro_V1_20261019
+
 
 Image format
 .tif
